@@ -11,10 +11,10 @@ It also reads the active environment mode using process.env.NODE_ENV.
 
 # Concepts Used
 
--Node.js
--process.env
--Environment Variables
--Default Values
+- Node.js
+- process.env
+- Environment Variables
+- Default Values
 # Execution
 
 node app.js
